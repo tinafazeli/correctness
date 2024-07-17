@@ -1,0 +1,622 @@
+[
+    {
+        "incorrect": "مدون",
+        "correct": "مدیون"
+    },
+    {
+        "incorrect": "جرای",
+        "correct": "جاری"
+    },
+    {
+        "incorrect": "مقنتشر",
+        "correct": "منتشر"
+    },
+    {
+        "incorrect": "اقط",
+        "correct": "ساقط"
+    },
+    {
+        "incorrect": "خو",
+        "correct": "خود"
+    },
+    {
+        "incorrect": "عسقلاان",
+        "correct": "عسقلان"
+    },
+    {
+        "incorrect": "بهجیا",
+        "correct": "بهجای"
+    },
+    {
+        "incorrect": "تعطیلیهایپ",
+        "correct": "تعطیلیهای"
+    },
+    {
+        "incorrect": "دوسی",
+        "correct": "دوستی"
+    },
+    {
+        "incorrect": "ذغا",
+        "correct": "غذا"
+    },
+    {
+        "incorrect": "دژااکم",
+        "correct": "دژاکام"
+    },
+    {
+        "incorrect": "تزحقق",
+        "correct": "تحقق"
+    },
+    {
+        "incorrect": "اسافس",
+        "correct": "اساس"
+    },
+    {
+        "incorrect": "مربانان",
+        "correct": "مرزبانان"
+    },
+    {
+        "incorrect": "جتصویب",
+        "correct": "تصویب"
+    },
+    {
+        "incorrect": "ایالتا",
+        "correct": "ایالات"
+    },
+    {
+        "incorrect": "متح،",
+        "correct": "متحد،"
+    },
+    {
+        "incorrect": "تدبیریذ",
+        "correct": "تدبیری"
+    },
+    {
+        "incorrect": "راههانی",
+        "correct": "راههای"
+    },
+    {
+        "incorrect": "خناواده",
+        "correct": "خانواده"
+    },
+    {
+        "incorrect": "تفحکص",
+        "correct": "تفحص"
+    },
+    {
+        "incorrect": "هشهرسازی",
+        "correct": "شهرسازی"
+    },
+    {
+        "incorrect": "ضهستهای",
+        "correct": "هستهای"
+    },
+    {
+        "incorrect": "نعوع",
+        "correct": "نوع"
+    },
+    {
+        "incorrect": "بصهیونیستی",
+        "correct": "صهیونیستی"
+    },
+    {
+        "incorrect": "مای",
+        "correct": "نمای"
+    },
+    {
+        "incorrect": "دت",
+        "correct": "دست"
+    },
+    {
+        "incorrect": "کتباهایش",
+        "correct": "کتابهایش"
+    },
+    {
+        "incorrect": "محمدبقر",
+        "correct": "محمدباقر"
+    },
+    {
+        "incorrect": "کنچد",
+        "correct": "کند"
+    },
+    {
+        "incorrect": "تبینی",
+        "correct": "تبیین"
+    },
+    {
+        "incorrect": "ارسدتان",
+        "correct": "اردستان"
+    },
+    {
+        "incorrect": "جتهاد",
+        "correct": "اجتهاد"
+    },
+    {
+        "incorrect": "بیضاضیی",
+        "correct": "بیضایی"
+    },
+    {
+        "incorrect": "لأ",
+        "correct": "خلأ"
+    },
+    {
+        "incorrect": "غام",
+        "correct": "غلام"
+    },
+    {
+        "incorrect": "مکرده",
+        "correct": "کرده"
+    },
+    {
+        "incorrect": "جیگاه",
+        "correct": "جایگاه"
+    },
+    {
+        "incorrect": "ساخه",
+        "correct": "ساخته"
+    },
+    {
+        "incorrect": "دیرکلس",
+        "correct": "دیرکل"
+    },
+    {
+        "incorrect": "بذایدن",
+        "correct": "بایدن"
+    },
+    {
+        "incorrect": "علاهق",
+        "correct": "علاقه"
+    },
+    {
+        "incorrect": "نجاصت",
+        "correct": "نجات"
+    },
+    {
+        "incorrect": "پیچیدهتریان",
+        "correct": "پیچیدهترین"
+    },
+    {
+        "incorrect": "کاخلاقیامیری",
+        "correct": "اخلاقیامیری"
+    },
+    {
+        "incorrect": "خبندری",
+        "correct": "بندری"
+    },
+    {
+        "incorrect": "خلج",
+        "correct": "خلیج"
+    },
+    {
+        "incorrect": "خوارزمیت",
+        "correct": "خوارزمی"
+    },
+    {
+        "incorrect": "وشک",
+        "correct": "موشک"
+    },
+    {
+        "incorrect": "یبنظیر",
+        "correct": "بینظیر"
+    },
+    {
+        "incorrect": "خهوزستان",
+        "correct": "خوزستان"
+    },
+    {
+        "incorrect": "عوامی",
+        "correct": "عواملی"
+    },
+    {
+        "incorrect": "راگیر",
+        "correct": "فراگیر"
+    },
+    {
+        "incorrect": "پنجشبنه",
+        "correct": "پنجشنبه"
+    },
+    {
+        "incorrect": "کنپیم",
+        "correct": "کنیم"
+    },
+    {
+        "incorrect": "لهسان",
+        "correct": "لهستان"
+    },
+    {
+        "incorrect": "هویای",
+        "correct": "هوای"
+    },
+    {
+        "incorrect": "داجدسرای",
+        "correct": "دادسرای"
+    },
+    {
+        "incorrect": "هسازمان",
+        "correct": "سازمان"
+    },
+    {
+        "incorrect": "حچمل",
+        "correct": "حمل"
+    },
+    {
+        "incorrect": "استاندارطد",
+        "correct": "استاندارد"
+    },
+    {
+        "incorrect": "شلرکت",
+        "correct": "شرکت"
+    },
+    {
+        "incorrect": "داخد",
+        "correct": "داد"
+    },
+    {
+        "incorrect": "وی",
+        "correct": "و"
+    },
+    {
+        "incorrect": "جهبه",
+        "correct": "جبهه"
+    },
+    {
+        "incorrect": "سرپبایی",
+        "correct": "سرپایی"
+    },
+    {
+        "incorrect": "روهزه",
+        "correct": "روزه"
+    },
+    {
+        "incorrect": "مهاجرتع",
+        "correct": "مهاجرت"
+    },
+    {
+        "incorrect": "تحظریم",
+        "correct": "تحریم"
+    },
+    {
+        "incorrect": "اظهادر",
+        "correct": "اظهار"
+    },
+    {
+        "incorrect": "فصصل",
+        "correct": "فصل"
+    },
+    {
+        "incorrect": "خانهش",
+        "correct": "خانه"
+    },
+    {
+        "incorrect": "اشروپا",
+        "correct": "اروپا"
+    },
+    {
+        "incorrect": "صدقین",
+        "correct": "صدیقین"
+    },
+    {
+        "incorrect": "دنو",
+        "correct": "دو"
+    },
+    {
+        "incorrect": "قابضل",
+        "correct": "قابل"
+    },
+    {
+        "incorrect": "پادذشاه",
+        "correct": "پادشاه"
+    },
+    {
+        "incorrect": "گفتدن",
+        "correct": "گفتند"
+    },
+    {
+        "incorrect": "بهگیرد",
+        "correct": "بگیرد"
+    },
+    {
+        "incorrect": "سرخاسر",
+        "correct": "سراسر"
+    },
+    {
+        "incorrect": "رفاه",
+        "correct": "رفاهی"
+    },
+    {
+        "incorrect": "رتردید",
+        "correct": "تردید"
+    },
+    {
+        "incorrect": "مزیتدطار",
+        "correct": "مزیتدار"
+    },
+    {
+        "incorrect": "آنچان",
+        "correct": "آنان"
+    },
+    {
+        "incorrect": "داری،م",
+        "correct": "داریم،"
+    },
+    {
+        "incorrect": "پیشنهدا",
+        "correct": "پیشنهاد"
+    },
+    {
+        "incorrect": "کنترطل",
+        "correct": "کنترل"
+    },
+    {
+        "incorrect": "شاط",
+        "correct": "نشاط"
+    },
+    {
+        "incorrect": "لشرکت",
+        "correct": "شرکت"
+    },
+    {
+        "incorrect": "فرهنظگی",
+        "correct": "فرهنگی"
+    },
+    {
+        "incorrect": "دانشگاهظ",
+        "correct": "دانشگاه"
+    },
+    {
+        "incorrect": "هیاذت",
+        "correct": "هیات"
+    },
+    {
+        "incorrect": "تورصیف",
+        "correct": "توصیف"
+    },
+    {
+        "incorrect": "مدشیرکل",
+        "correct": "مدیرکل"
+    },
+    {
+        "incorrect": "مسیرف",
+        "correct": "مسیر"
+    },
+    {
+        "incorrect": "جمهوخری",
+        "correct": "جمهوری"
+    },
+    {
+        "incorrect": "گعرفتن",
+        "correct": "گرفتن"
+    },
+    {
+        "incorrect": "گبند",
+        "correct": "بند"
+    },
+    {
+        "incorrect": "صهیونیتی",
+        "correct": "صهیونیستی"
+    },
+    {
+        "incorrect": "هر",
+        "correct": "شهر"
+    },
+    {
+        "incorrect": "وشهر",
+        "correct": "شهر"
+    },
+    {
+        "incorrect": "امضداد",
+        "correct": "امداد"
+    },
+    {
+        "incorrect": "صدوطر",
+        "correct": "صدور"
+    },
+    {
+        "incorrect": "خعلوم",
+        "correct": "علوم"
+    },
+    {
+        "incorrect": "تآلویو",
+        "correct": "تلآویو"
+    },
+    {
+        "incorrect": "شارکتهای",
+        "correct": "شرکتهای"
+    },
+    {
+        "incorrect": "بودن",
+        "correct": "بدون"
+    },
+    {
+        "incorrect": "کتحت",
+        "correct": "تحت"
+    },
+    {
+        "incorrect": "نپوار",
+        "correct": "نوار"
+    },
+    {
+        "incorrect": "ایخ",
+        "correct": "ای"
+    },
+    {
+        "incorrect": "ارفیه",
+        "correct": "اشرفیه"
+    },
+    {
+        "incorrect": "لخاف",
+        "correct": "خلاف"
+    },
+    {
+        "incorrect": "زلوم",
+        "correct": "لزوم"
+    },
+    {
+        "incorrect": "وخاندن",
+        "correct": "خواندن"
+    },
+    {
+        "incorrect": "بسحتگی",
+        "correct": "بستگی"
+    },
+    {
+        "incorrect": "روشک",
+        "correct": "روکش"
+    },
+    {
+        "incorrect": "جعاری",
+        "correct": "جاری"
+    },
+    {
+        "incorrect": "عشایرید",
+        "correct": "عشایری"
+    },
+    {
+        "incorrect": "بظیله",
+        "correct": "بیله"
+    },
+    {
+        "incorrect": "طیو",
+        "correct": "طیور"
+    },
+    {
+        "incorrect": "توثسط",
+        "correct": "توسط"
+    },
+    {
+        "incorrect": "اشریف،",
+        "correct": "شریف،"
+    },
+    {
+        "incorrect": "چما",
+        "correct": "ما"
+    },
+    {
+        "incorrect": "متنقل",
+        "correct": "منتقل"
+    },
+    {
+        "incorrect": "اماری",
+        "correct": "امری"
+    },
+    {
+        "incorrect": "دستگیر",
+        "correct": "دستگیری"
+    },
+    {
+        "incorrect": "شدهت",
+        "correct": "شدت"
+    },
+    {
+        "incorrect": "سسریعتر",
+        "correct": "سریعتر"
+    },
+    {
+        "incorrect": "سلیتی",
+        "correct": "تسلیتی"
+    },
+    {
+        "incorrect": "باطید",
+        "correct": "باید"
+    },
+    {
+        "incorrect": "بخرو،",
+        "correct": "بخور،"
+    },
+    {
+        "incorrect": "مبحوبیت",
+        "correct": "محبوبیت"
+    },
+    {
+        "incorrect": "دورههی",
+        "correct": "دورههای"
+    },
+    {
+        "incorrect": "هچرند",
+        "correct": "هرچند"
+    },
+    {
+        "incorrect": "تمدین",
+        "correct": "تمدنی"
+    },
+    {
+        "incorrect": "بریخ",
+        "correct": "برخی"
+    },
+    {
+        "incorrect": "خبرنوگاران",
+        "correct": "خبرنگاران"
+    },
+    {
+        "incorrect": "خلاصثه",
+        "correct": "خلاصه"
+    },
+    {
+        "incorrect": "مادجه",
+        "correct": "ماده"
+    },
+    {
+        "incorrect": "شیارز",
+        "correct": "شیراز"
+    },
+    {
+        "incorrect": "رکوررد",
+        "correct": "رکورد"
+    },
+    {
+        "incorrect": "شدهماند",
+        "correct": "شدهاند"
+    },
+    {
+        "incorrect": "مرویر",
+        "correct": "مروری"
+    },
+    {
+        "incorrect": "طداشت",
+        "correct": "داشت"
+    },
+    {
+        "incorrect": "یذافته",
+        "correct": "یافته"
+    },
+    {
+        "incorrect": "زمرینه",
+        "correct": "زمینه"
+    },
+    {
+        "incorrect": "شنهرستان",
+        "correct": "شهرستان"
+    },
+    {
+        "incorrect": "تاکدیات",
+        "correct": "تاکیدات"
+    },
+    {
+        "incorrect": "تأییچد",
+        "correct": "تأیید"
+    },
+    {
+        "incorrect": "لعلوم",
+        "correct": "علوم"
+    },
+    {
+        "incorrect": "اهایی",
+        "correct": "هایی"
+    },
+    {
+        "incorrect": "نامخه",
+        "correct": "نامه"
+    },
+    {
+        "incorrect": "تولیکد",
+        "correct": "تولید"
+    },
+    {
+        "incorrect": "رودخسر",
+        "correct": "رودسر"
+    },
+    {
+        "incorrect": "الکترنویک",
+        "correct": "الکترونیک"
+    }
+]
